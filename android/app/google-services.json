@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "89968174893",
+    "project_id": "lenovo-ac23d",
+    "storage_bucket": "lenovo-ac23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89968174893:android:03440bed5592bb24af95a4",
+        "android_client_info": {
+          "package_name": "com.example.google_verify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89968174893-dvpnd32coke678m40s56v2ams4m1ts7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_verify",
+            "certificate_hash": "c3b46d69ed1079f670cab22312a21d56be7cd295"
+          }
+        },
+        {
+          "client_id": "89968174893-fm86cdebbcmo60od6t73tslommggavlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gxDR0y3kgw_YRVHshrQC_9ht-wrYrng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89968174893-6gee9bdih4ehv085i746i46pm2bjpgnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89968174893-p68pl06pqc8lkqaf9ip82anlc6in4rta.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleVerify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

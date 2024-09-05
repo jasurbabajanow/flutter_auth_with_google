@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89968174893-p68pl06pqc8lkqaf9ip82anlc6in4rta.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89968174893-p68pl06pqc8lkqaf9ip82anlc6in4rta</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>89968174893-dvpnd32coke678m40s56v2ams4m1ts7g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApP_727qScG7Ym4J3tiW2iRFbLoFphf7g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89968174893</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.googleVerify</string>
+	<key>PROJECT_ID</key>
+	<string>lenovo-ac23d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lenovo-ac23d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89968174893:ios:a572f00082a45772af95a4</string>
+</dict>
+</plist>
